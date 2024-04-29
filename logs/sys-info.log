@@ -1,0 +1,245 @@
+22:39:05.836 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarting,55] - Starting ErpCrmApplication using Java 1.8.0_341 on LAPTOP-T9PILKGE with PID 10676 (C:\Users\derlik\Desktop\erp-crm\erp-crm\center\target\classes started by derlik in C:\Users\derlik\Desktop\erp-crm)
+22:39:05.838 [restartedMain] INFO  c.e.ErpCrmApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+22:39:05.848 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+22:39:10.170 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:39:10.170 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:39:10.171 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+22:39:10.282 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:39:13.715 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8080"]
+22:39:13.941 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarted,61] - Started ErpCrmApplication in 8.5 seconds (JVM running for 9.916)
+22:39:45.207 [Thread-18] INFO  sys-user - [shutdownAsyncManager,28] - ====关闭后台任务任务线程池====
+22:39:45.418 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarting,55] - Starting ErpCrmApplication using Java 1.8.0_341 on LAPTOP-T9PILKGE with PID 10676 (C:\Users\derlik\Desktop\erp-crm\erp-crm\center\target\classes started by derlik in C:\Users\derlik\Desktop\erp-crm)
+22:39:45.419 [restartedMain] INFO  c.e.ErpCrmApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+22:39:47.821 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8080"]
+22:39:47.821 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:39:47.821 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+22:39:47.865 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:39:50.069 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarted,61] - Started ErpCrmApplication in 4.722 seconds (JVM running for 46.044)
+22:39:50.425 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,28] - ====关闭后台任务任务线程池====
+22:41:39.498 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarting,55] - Starting ErpCrmApplication using Java 1.8.0_341 on LAPTOP-T9PILKGE with PID 23884 (C:\Users\derlik\Desktop\erp-crm\erp-crm\center\target\classes started by derlik in C:\Users\derlik\Desktop\erp-crm)
+22:41:39.501 [restartedMain] INFO  c.e.ErpCrmApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+22:41:39.509 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+22:41:43.206 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8084"]
+22:41:43.207 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:41:43.207 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+22:41:43.334 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:41:46.878 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8084"]
+22:41:47.096 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarted,61] - Started ErpCrmApplication in 7.948 seconds (JVM running for 9.083)
+22:43:30.497 [http-nio-8084-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+22:43:30.532 [http-nio-8084-exec-1] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+22:52:49.959 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,28] - ====关闭后台任务任务线程池====
+22:52:54.171 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarting,55] - Starting ErpCrmApplication using Java 1.8.0_341 on LAPTOP-T9PILKGE with PID 2940 (C:\Users\derlik\Desktop\erp-crm\erp-crm\center\target\classes started by derlik in C:\Users\derlik\Desktop\erp-crm)
+22:52:54.173 [restartedMain] INFO  c.e.ErpCrmApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+22:52:54.181 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+22:52:58.045 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8084"]
+22:52:58.045 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:52:58.045 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+22:52:58.151 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:53:01.630 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8084"]
+22:53:01.851 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarted,61] - Started ErpCrmApplication in 8.026 seconds (JVM running for 9.196)
+22:54:26.453 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,28] - ====关闭后台任务任务线程池====
+22:54:29.469 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarting,55] - Starting ErpCrmApplication using Java 1.8.0_341 on LAPTOP-T9PILKGE with PID 24432 (C:\Users\derlik\Desktop\erp-crm\erp-crm\center\target\classes started by derlik in C:\Users\derlik\Desktop\erp-crm)
+22:54:29.473 [restartedMain] INFO  c.e.ErpCrmApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+22:54:29.481 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+22:54:33.591 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8084"]
+22:54:33.591 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+22:54:33.591 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+22:54:33.700 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+22:54:37.127 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8084"]
+22:54:37.346 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarted,61] - Started ErpCrmApplication in 8.282 seconds (JVM running for 9.54)
+23:02:26.846 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,28] - ====关闭后台任务任务线程池====
+23:02:30.992 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarting,55] - Starting ErpCrmApplication using Java 1.8.0_341 on LAPTOP-T9PILKGE with PID 8560 (C:\Users\derlik\Desktop\erp-crm\erp-crm\center\target\classes started by derlik in C:\Users\derlik\Desktop\erp-crm)
+23:02:30.995 [restartedMain] INFO  c.e.ErpCrmApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+23:02:31.003 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+23:02:35.066 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8084"]
+23:02:35.067 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:02:35.067 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+23:02:35.188 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:02:39.021 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8084"]
+23:02:39.246 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarted,61] - Started ErpCrmApplication in 8.62 seconds (JVM running for 9.731)
+23:03:03.192 [http-nio-8084-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:09:45.591 [http-nio-8084-exec-3] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:09:45.680 [http-nio-8084-exec-3] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-1} inited
+23:09:45.812 [http-nio-8084-exec-3] INFO  c.e.a.i.TenantInterceptor - [preHandle,67] - &&&&&&&&&&& 已设置租户:tenant1 连接信息: MasterTenant(id=33, tenant=tenant1, url=jdbc:mysql://localhost:3306/ec_KWEbSrWI?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8, databaseName=ec_KWEbSrWI, username=ec_KWEbSrWI, password=8CB7go3k, hostName=null, status=1, expirationDate=Fri Mar 31 12:22:03 CST 2028)
+23:09:45.942 [http-nio-8084-exec-3] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-2} inited
+23:09:45.963 [Druid-ConnectionPool-Create-2120664788] INFO  c.a.d.p.DruidAbstractDataSource - [setFailContinuous,1804] - {dataSource-2} failContinuous is true
+23:11:01.767 [http-nio-8084-exec-5] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:11:01.767 [http-nio-8084-exec-5] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:tenant1
+23:11:26.802 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,28] - ====关闭后台任务任务线程池====
+23:11:39.880 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarting,55] - Starting ErpCrmApplication using Java 1.8.0_341 on LAPTOP-T9PILKGE with PID 15700 (C:\Users\derlik\Desktop\erp-crm\erp-crm\center\target\classes started by derlik in C:\Users\derlik\Desktop\erp-crm)
+23:11:39.882 [restartedMain] INFO  c.e.ErpCrmApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+23:11:39.889 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+23:11:43.430 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8084"]
+23:11:43.430 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:11:43.430 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+23:11:43.537 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:11:46.993 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8084"]
+23:11:47.281 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarted,61] - Started ErpCrmApplication in 7.74 seconds (JVM running for 8.874)
+23:11:51.355 [http-nio-8084-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:11:58.424 [http-nio-8084-exec-2] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:11:58.499 [http-nio-8084-exec-2] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-1} inited
+23:11:58.610 [http-nio-8084-exec-2] INFO  c.e.a.i.TenantInterceptor - [preHandle,67] - &&&&&&&&&&& 已设置租户:tenant1 连接信息: MasterTenant(id=33, tenant=tenant1, url=jdbc:mysql://localhost:3306/ec_KWEbSrWI?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8, databaseName=ec_KWEbSrWI, username=ec_KWEbSrWI, password=8CB7go3k, hostName=null, status=1, expirationDate=Fri Mar 31 12:22:03 CST 2028)
+23:11:58.723 [http-nio-8084-exec-2] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-2} inited
+23:11:58.741 [Druid-ConnectionPool-Create-907462431] INFO  c.a.d.p.DruidAbstractDataSource - [setFailContinuous,1804] - {dataSource-2} failContinuous is true
+23:13:42.737 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,28] - ====关闭后台任务任务线程池====
+23:19:10.767 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarting,55] - Starting ErpCrmApplication using Java 1.8.0_341 on LAPTOP-T9PILKGE with PID 11172 (C:\Users\derlik\Desktop\erp-crm\erp-crm\center\target\classes started by derlik in C:\Users\derlik\Desktop\erp-crm)
+23:19:10.770 [restartedMain] INFO  c.e.ErpCrmApplication - [logStartupProfileInfo,674] - The following profiles are active: druid
+23:19:10.777 [background-preinit] INFO  o.h.v.i.util.Version - [<clinit>,21] - HV000001: Hibernate Validator 6.2.0.Final
+23:19:14.665 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Initializing ProtocolHandler ["http-nio-8084"]
+23:19:14.666 [restartedMain] INFO  o.a.c.c.StandardService - [log,173] - Starting service [Tomcat]
+23:19:14.666 [restartedMain] INFO  o.a.c.c.StandardEngine - [log,173] - Starting Servlet engine: [Apache Tomcat/9.0.56]
+23:19:14.778 [restartedMain] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring embedded WebApplicationContext
+23:19:18.454 [restartedMain] INFO  o.a.c.h.Http11NioProtocol - [log,173] - Starting ProtocolHandler ["http-nio-8084"]
+23:19:18.673 [restartedMain] INFO  c.e.ErpCrmApplication - [logStarted,61] - Started ErpCrmApplication in 8.26 seconds (JVM running for 9.387)
+23:19:23.478 [http-nio-8084-exec-1] INFO  o.a.c.c.C.[.[.[/] - [log,173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+23:20:30.774 [http-nio-8084-exec-2] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-1} inited
+23:20:30.916 [http-nio-8084-exec-2] INFO  c.e.a.w.s.TenantRegisterService - [initDatabase,90] - 当前数据库：ec_roNcDBuU
+23:21:33.100 [http-nio-8084-exec-6] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:21:33.117 [http-nio-8084-exec-6] INFO  c.e.a.i.TenantInterceptor - [preHandle,67] - &&&&&&&&&&& 已设置租户:DLG 连接信息: MasterTenant(id=34, tenant=DLG, url=jdbc:mysql://localhost:3306/ec_roNcDBuU?useUnicode=true&characterEncoding=utf8&zeroDateTimeBehavior=convertToNull&useSSL=true&serverTimezone=GMT%2B8, databaseName=ec_roNcDBuU, username=ec_roNcDBuU, password=eUXm9uwz, hostName=null, status=1, expirationDate=Wed Apr 24 23:20:31 CST 2024)
+23:21:33.187 [http-nio-8084-exec-6] INFO  c.a.d.p.DruidDataSource - [init,998] - {dataSource-2} inited
+23:21:33.322 [schedule-pool-1] INFO  sys-user - [run,59] - [127.0.0.1]内网IP[dlg][Success][登录成功]
+23:21:33.881 [http-nio-8084-exec-7] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:21:33.881 [http-nio-8084-exec-7] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:21:34.244 [http-nio-8084-exec-8] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:21:34.244 [http-nio-8084-exec-8] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:21:34.496 [http-nio-8084-exec-9] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:21:34.497 [http-nio-8084-exec-9] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:31.059 [http-nio-8084-exec-10] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:31.060 [http-nio-8084-exec-10] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:32.363 [http-nio-8084-exec-11] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:32.363 [http-nio-8084-exec-11] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:35.500 [http-nio-8084-exec-12] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:35.500 [http-nio-8084-exec-12] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:36.591 [http-nio-8084-exec-13] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:36.592 [http-nio-8084-exec-13] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:37.848 [http-nio-8084-exec-14] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:37.848 [http-nio-8084-exec-14] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:38.108 [http-nio-8084-exec-15] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:38.109 [http-nio-8084-exec-15] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:40.604 [http-nio-8084-exec-16] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:40.604 [http-nio-8084-exec-16] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:42.416 [http-nio-8084-exec-17] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:42.417 [http-nio-8084-exec-17] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:44.957 [http-nio-8084-exec-22] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:44.957 [http-nio-8084-exec-20] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:44.957 [http-nio-8084-exec-23] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:44.957 [http-nio-8084-exec-21] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:44.957 [http-nio-8084-exec-22] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:44.957 [http-nio-8084-exec-23] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:44.957 [http-nio-8084-exec-20] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:44.957 [http-nio-8084-exec-21] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:44.961 [http-nio-8084-exec-18] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:44.961 [http-nio-8084-exec-19] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:44.962 [http-nio-8084-exec-18] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:44.962 [http-nio-8084-exec-19] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:45.322 [http-nio-8084-exec-24] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:45.323 [http-nio-8084-exec-24] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:45.323 [http-nio-8084-exec-25] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:45.323 [http-nio-8084-exec-25] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:47.333 [http-nio-8084-exec-29] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:47.333 [http-nio-8084-exec-27] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:47.333 [http-nio-8084-exec-26] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:47.333 [http-nio-8084-exec-30] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:47.333 [http-nio-8084-exec-31] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:47.333 [http-nio-8084-exec-28] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:47.333 [http-nio-8084-exec-29] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:47.333 [http-nio-8084-exec-26] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:47.333 [http-nio-8084-exec-30] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:47.333 [http-nio-8084-exec-27] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:47.334 [http-nio-8084-exec-28] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:47.334 [http-nio-8084-exec-31] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:47.666 [http-nio-8084-exec-32] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:47.666 [http-nio-8084-exec-32] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:48.562 [http-nio-8084-exec-36] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:48.562 [http-nio-8084-exec-37] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:48.562 [http-nio-8084-exec-34] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:48.562 [http-nio-8084-exec-35] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:48.562 [http-nio-8084-exec-33] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:48.562 [http-nio-8084-exec-38] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:48.562 [http-nio-8084-exec-36] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:48.562 [http-nio-8084-exec-37] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:48.562 [http-nio-8084-exec-34] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:48.564 [http-nio-8084-exec-35] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:48.564 [http-nio-8084-exec-33] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:48.564 [http-nio-8084-exec-38] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:48.884 [http-nio-8084-exec-39] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:48.884 [http-nio-8084-exec-39] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:50.459 [http-nio-8084-exec-44] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:50.459 [http-nio-8084-exec-42] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:50.459 [http-nio-8084-exec-45] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:50.459 [http-nio-8084-exec-40] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:50.459 [http-nio-8084-exec-43] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:50.459 [http-nio-8084-exec-41] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:50.460 [http-nio-8084-exec-42] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:50.460 [http-nio-8084-exec-45] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:50.460 [http-nio-8084-exec-44] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:50.460 [http-nio-8084-exec-40] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:50.460 [http-nio-8084-exec-43] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:50.460 [http-nio-8084-exec-41] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:50.780 [http-nio-8084-exec-46] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:50.781 [http-nio-8084-exec-47] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:50.781 [http-nio-8084-exec-46] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:50.781 [http-nio-8084-exec-47] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:51.003 [http-nio-8084-exec-48] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:51.003 [http-nio-8084-exec-50] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:51.003 [http-nio-8084-exec-51] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:51.003 [http-nio-8084-exec-49] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:51.003 [http-nio-8084-exec-48] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:51.003 [http-nio-8084-exec-50] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:51.003 [http-nio-8084-exec-51] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:51.003 [http-nio-8084-exec-49] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:51.097 [http-nio-8084-exec-52] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:51.097 [http-nio-8084-exec-53] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:51.098 [http-nio-8084-exec-52] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:51.098 [http-nio-8084-exec-53] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:51.314 [http-nio-8084-exec-54] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:51.314 [http-nio-8084-exec-54] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:51.314 [http-nio-8084-exec-55] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:51.314 [http-nio-8084-exec-55] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:52.081 [http-nio-8084-exec-59] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:52.081 [http-nio-8084-exec-60] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:52.081 [http-nio-8084-exec-57] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:52.081 [http-nio-8084-exec-61] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:52.081 [http-nio-8084-exec-58] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:52.081 [http-nio-8084-exec-56] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:52.081 [http-nio-8084-exec-59] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:52.081 [http-nio-8084-exec-60] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:52.081 [http-nio-8084-exec-57] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:52.082 [http-nio-8084-exec-61] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:52.082 [http-nio-8084-exec-56] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:52.082 [http-nio-8084-exec-58] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:52.400 [http-nio-8084-exec-62] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:52.400 [http-nio-8084-exec-63] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:52.401 [http-nio-8084-exec-63] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:52.401 [http-nio-8084-exec-62] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:54.423 [http-nio-8084-exec-65] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:54.423 [http-nio-8084-exec-64] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:54.423 [http-nio-8084-exec-65] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:54.424 [http-nio-8084-exec-64] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:54.760 [http-nio-8084-exec-66] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:54.761 [http-nio-8084-exec-66] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:55.064 [http-nio-8084-exec-68] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:55.064 [http-nio-8084-exec-68] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:55.064 [http-nio-8084-exec-67] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:55.065 [http-nio-8084-exec-67] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:55.640 [http-nio-8084-exec-69] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:55.640 [http-nio-8084-exec-69] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:55.641 [http-nio-8084-exec-70] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:55.641 [http-nio-8084-exec-70] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:57.269 [http-nio-8084-exec-71] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:57.269 [http-nio-8084-exec-71] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:57.578 [http-nio-8084-exec-73] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:57.579 [http-nio-8084-exec-72] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:57.579 [http-nio-8084-exec-73] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:57.579 [http-nio-8084-exec-72] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:59.148 [http-nio-8084-exec-75] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:59.148 [http-nio-8084-exec-75] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:24:59.148 [http-nio-8084-exec-74] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:24:59.149 [http-nio-8084-exec-74] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:25:00.065 [http-nio-8084-exec-76] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:25:00.065 [http-nio-8084-exec-76] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:25:00.386 [http-nio-8084-exec-77] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:25:00.386 [http-nio-8084-exec-77] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:25:02.755 [http-nio-8084-exec-78] INFO  c.e.a.i.TenantInterceptor - [preHandle,46] - &&&&&&&&&&&&&&&& 租户拦截 &&&&&&&&&&&&&&&&
+23:25:02.755 [http-nio-8084-exec-78] INFO  c.e.a.i.TenantInterceptor - [preHandle,69] - &&&&&&&&&&& 当前租户:DLG
+23:47:57.279 [SpringApplicationShutdownHook] INFO  sys-user - [shutdownAsyncManager,28] - ====关闭后台任务任务线程池====
